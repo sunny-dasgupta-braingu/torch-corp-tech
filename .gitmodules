@@ -1,0 +1,3 @@
+[submodule "crowdstrike/falcon-license"]
+	path = crowdstrike/falcon-license
+	url = git@github.com:kguay/falcon-license.git
